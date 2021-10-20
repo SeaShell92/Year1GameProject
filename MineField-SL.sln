@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineField-SL", "MineField-SL\MineField-SL.csproj", "{D5BDC769-F783-4C57-B4D9-8463F69B3889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5BDC769-F783-4C57-B4D9-8463F69B3889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5BDC769-F783-4C57-B4D9-8463F69B3889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5BDC769-F783-4C57-B4D9-8463F69B3889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5BDC769-F783-4C57-B4D9-8463F69B3889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {638833D6-D19A-492D-B85A-59A08ADE54C3}
+	EndGlobalSection
+EndGlobal
